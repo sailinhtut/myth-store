@@ -3,8 +3,6 @@
 **Myth Store** is a modern and elegant e-commerce front-end built with **React**, **Tailwind CSS**,
 and **Shadcn UI**. Designed for speed, style, and scalability.
 
----
-
 ## ✨ Features
 
 -    ⚡ Beautiful hero landing page
@@ -16,7 +14,6 @@ and **Shadcn UI**. Designed for speed, style, and scalability.
 -    🧼 Clean and reusable component-based architecture
 -    📱 Fully responsive and mobile-optimized
 
----
 
 ## 📸 Previews
 
