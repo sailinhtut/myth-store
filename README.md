@@ -28,8 +28,9 @@ and **Shadcn UI**. Designed for speed, style, and scalability.
 ![Landing Page](https://github.com/sailinhtut/myth-store/blob/main/preview/6.png)
 ![Landing Page](https://github.com/sailinhtut/myth-store/blob/main/preview/7.png)
 
-
 ## 🚀 Getting Started
+
+To run and develop.
 
 ```bash
 git clone https://github.com/sailinhtut/myth-store.git
@@ -37,3 +38,10 @@ cd myth-store
 npm install
 npm run dev
 ```
+
+To build production web bundle (HTML, CSS, JavaScript).
+
+```bash
+npm run build
+```
+Then upload content from /dist folder to your hosting public directory.
